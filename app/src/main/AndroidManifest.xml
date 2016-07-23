@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.nkmem.da.no4gplus">
+    <application
+        android:label="Replace 4G+ Icon">
+        <meta-data
+            android:name="xposedmodule"
+            android:value="true"/>
+        <meta-data
+            android:name="xposeddescription"
+            android:value="Replaces the 4G+ icon with the LTE icon on OnePlus 3"/>
+        <meta-data
+            android:name="xposedminversion"
+            android:value="81"/>
+    </application>
+</manifest>
